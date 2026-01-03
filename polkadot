@@ -1,0 +1,49 @@
+## 🧰 Tech Stack & Tools
+
+This frontend is the user interface for the PolkaSec security platform.
+
+### Core Technologies
+
+- **React** (or Next.js) – SPA / frontend framework
+- **TypeScript or JavaScript** – Main language for UI logic
+- **CSS / Tailwind / Styled Components** – Styling and responsive layout
+
+### Web3 Integration
+
+- **ethers.js / web3.js** – Connecting to smart contracts and RPC providers
+- **Wallet integrations** – MetaMask or other wallets for user authentication
+- **Ethereum / EVM networks** – Reading on-chain data and sending transactions
+
+### State & Data
+
+- **React Query / Redux / Context API** (if used) – State and data management
+- **REST / GraphQL** – Communicating with the PolkaSec backend APIs
+
+### Tooling
+
+- **Git & GitHub** – Version control and collaboration
+- **Vite / CRA / Next build** – Frontend build tooling
+- **ESLint & Prettier** – Code quality and formatting
+
+---
+
+### 3) Optional: Icon-style badges (you can add under “Tech Stack”)
+
+```markdown
+### Tech Stack (Quick View)
+
+<p>
+  <!-- Blockchain -->
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  
+  <!-- Backend / Frontend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
